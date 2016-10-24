@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jan Hugo&#39;s Site </title>
-    <link>https://m0ll3art.github.io/bookshelf/index.xml</link>
+    <link>https://m0ll3art.github.io/GitPages-Test/index.xml</link>
     <language>en-us</language>
     <author>Jan Solca</author>
     <rights>(C) 2016</rights>
@@ -14,10 +14,10 @@
       
         <item>
           <title>first post</title>
-          <link>https://m0ll3art.github.io/bookshelf/post/first-post/</link>
+          <link>https://m0ll3art.github.io/GitPages-Test/post/first-post/</link>
           <pubDate>Mon, 24 Oct 2016 11:55:45 CEST</pubDate>
           <author>Jan Solca</author>
-          <guid>https://m0ll3art.github.io/bookshelf/post/first-post/</guid>
+          <guid>https://m0ll3art.github.io/GitPages-Test/post/first-post/</guid>
           <description>
 
 &lt;h1 id=&#34;first-chapter-on-semantic&#34;&gt;first chapter on semantic&lt;/h1&gt;
