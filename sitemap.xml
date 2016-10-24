@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost/~solcaj/</loc>
+    <lastmod>2016-10-24T11:55:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/~solcaj/article/first-article/</loc>
+    <lastmod>2016-10-24T11:55:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/~solcaj/post/first-post/</loc>
+    <lastmod>2016-10-24T11:55:45+02:00</lastmod>
+  </url>
+  
+</urlset>
